@@ -2,7 +2,7 @@
 
 
 ## Czym jest Webstream?
-![logo webstream](https://logo.webstream.dev/3/deafult.png)
+![logo webstream](https://logo.webstream.dev/3/default.png)
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [www.webstream.dev](https://about.webstream.dev/#/)
