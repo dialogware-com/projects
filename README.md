@@ -1,6 +1,6 @@
-http://projects.wapka.pl/
+# [projects.wapka.pl](http://projects.wapka.pl)
 
-# Elementy ekosystemu
+## Elementy ekosystemu
 
 ![wdrozenie - logo](https://logo.wdrozenie.it/1/cover.png)
 ## wdrozenie.it
@@ -192,4 +192,20 @@ https://www.zdnet.com/article/cloudlinux-readies-centos-linux-replacement-almali
 
 + chat / terminal do realziacji usług poprzez wydawanie komend
   Możiwosć łatwej implementacji w innych aplikacjach
+  
+  
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
++ [edit](https://github.com/wapka-pl/projects/edit/master/README.md)
+
+```
+https://github.com/wapka-pl/projects.git
+```
+
 
